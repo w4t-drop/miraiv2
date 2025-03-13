@@ -3,18 +3,18 @@
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
-    "allowInbox": true,
+    "allowInbox": false,
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "Trật tự buồng",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "7950144",
+        "7950144"
     ],
     "DATABASE": {
         "sqlite": {
